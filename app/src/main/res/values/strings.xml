@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Project-001</string>
+
+    <string name="streamer_name">Nama Streamer</string>
+    <string name="desc_name">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Tyler Blevins</item>
+        <item>Imane Anys</item>
+        <item>Felix Lengyel</item>
+        <item>Turner Tenney</item>
+        <item>David Cánovas Martínez</item>
+        <item>Michael Grzesiek</item>
+        <item>Ibai Llanos Garatea</item>
+        <item>Rubén Gundersen</item>
+        <item>Juan Sebastián Guarnizo</item>
+        <item>KaiCenat</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Known for Fortnite and variety gaming. </item>
+        <item>Popular female streamer with a large following.</item>
+        <item>Known for his energetic and often controversial streams.</item>
+        <item>Professional Fortnite player turned streamer.</item>
+        <item>Spanish streamer with a massive following.</item>
+        <item>Former professional Counter-Strike player turned streamer.</item>
+        <item>Spanish streamer known for his variety content.</item>
+        <item>Spanish YouTuber and streamer with a long-standing career.</item>
+        <item>Colombian streamer with a strong Latin American fanbase.</item>
+        <item>English streamer with a rapid rise in popularity.</item>
+    </string-array>
+    <string-array name="data_image">
+        <item>@drawable/tyler_blevins</item>
+        <item>@drawable/imane_anys</item>
+        <item>@drawable/xqc</item>
+        <item>@drawable/tfue</item>
+        <item>@drawable/the_grefg</item>
+        <item>@drawable/shroud</item>
+        <item>@drawable/lbai</item>
+        <item>@drawable/rubius</item>
+        <item>@drawable/juansguarnizo</item>
+        <item>@drawable/kai_cenat</item>
+
+    </string-array>
+
+</resources>
